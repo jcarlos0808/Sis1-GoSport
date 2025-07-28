@@ -25,3 +25,5 @@ Carlos Antonio Gutierrez Copara
 Samuel Abrahan Fuentes Contreras 
 
 Alvaro Daniel Colque Cayo 
+
+Juan Carlos Llampa Martinez 
