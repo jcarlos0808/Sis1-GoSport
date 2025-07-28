@@ -23,3 +23,5 @@ Bismark Gonzales Soliz
 Carlos Antonio Gutierrez Copara
 
 Samuel Abrahan Fuentes Contreras 
+
+Juan Carlos Llampa Martinez 
